@@ -1,0 +1,3 @@
+﻿  body.cpp
+C:\Users\TiTaNPC\source\repos\Bubble sort for two-dimensional array\body.cpp(8,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Bubble sort for two-dimensional array.vcxproj -> C:\Users\TiTaNPC\source\repos\Bubble sort for two-dimensional array\x64\Debug\Bubble sort for two-dimensional array.exe
