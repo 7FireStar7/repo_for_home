@@ -1,0 +1,5 @@
+﻿  body.cpp
+C:\Users\TiTaNPC\source\repos\trash\body.cpp(7,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\TiTaNPC\source\repos\trash\body.cpp(15,3): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\TiTaNPC\source\repos\trash\body.cpp(43,3): warning C4098: main: функция типа "void", возвращающая значение
+  trash.vcxproj -> C:\Users\TiTaNPC\source\repos\trash\x64\Debug\trash.exe
